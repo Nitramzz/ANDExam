@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617574866778",
+    "firebase_url": "https://andexam-22548.firebaseio.com",
+    "project_id": "andexam-22548",
+    "storage_bucket": "andexam-22548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617574866778:android:3f1c9ca066d78549dbdd63",
+        "android_client_info": {
+          "package_name": "flyingfuck.whatthe.and"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617574866778-mhalh3r25gvg1sd2at8s19pbbnap8kid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoj9GMFNVnUA4cqkn-DNHggK-pkZKsi18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617574866778-mhalh3r25gvg1sd2at8s19pbbnap8kid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
